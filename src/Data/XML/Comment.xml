@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><AllComents>
+    <Comment idClass="java.lang.Integer" idEntity="1">
+        <idUser>3</idUser>
+        <idEvent>2</idEvent>
+        <commentMessage>Sunt prea multi americani, se invata engleza. V-ati uitat radacinile romanilor.</commentMessage>
+    </Comment>
+    <Comment idClass="java.lang.Integer" idEntity="2">
+        <idUser>4</idUser>
+        <idEvent>1</idEvent>
+        <commentMessage>De cand am asteptat sa se intample asta, pacat ca este Hybrid.</commentMessage>
+    </Comment>
+    <Comment idClass="java.lang.Integer" idEntity="3">
+        <idUser>2</idUser>
+        <idEvent>2</idEvent>
+        <commentMessage>Sunt gigi. sunati-ma la 0748971654876. Ofer servicii de gresie faianta.</commentMessage>
+    </Comment>
+</AllComents>

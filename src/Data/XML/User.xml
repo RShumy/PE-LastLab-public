@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><UserList>
+    <User idClass="java.lang.Integer" idEntity="1">
+        <name>Horatiu</name>
+        <userName>Horica12Yes</userName>
+        <password>Filigram1.</password>
+        <email>horica.bijutier@jewel.ro</email>
+    </User>
+    <User idClass="java.lang.Integer" idEntity="2">
+        <name>George</name>
+        <userName>Gigi1</userName>
+        <password>Gigiss123.</password>
+        <email>dasdasdas@dsasd.ds</email>
+    </User>
+    <User idClass="java.lang.Integer" idEntity="3">
+        <name>Babushka</name>
+        <userName>FirstAgent</userName>
+        <password>KaGheBe123.</password>
+        <email>delabalcon@shpioanca.ru</email>
+    </User>
+    <User idClass="java.lang.Integer" idEntity="4">
+        <name>Corina</name>
+        <userName>Corinutza18</userName>
+        <password>CoryyyUUUnu2?</password>
+        <email>corinutza.pisi@myspacerevived.com</email>
+    </User>
+</UserList>

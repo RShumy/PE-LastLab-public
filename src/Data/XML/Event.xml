@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><AllEvents>
+    <Event idClass="java.lang.Integer" idEntity="1">
+        <eventName>Scoala de Vara</eventName>
+        <eventDate>2022-06-10</eventDate>
+        <eventTime>08:00</eventTime>
+        <eventPrice>500.0</eventPrice>
+        <eventType>Face_to_Face</eventType>
+    </Event>
+    <Event idClass="java.lang.Integer" idEntity="2">
+        <eventName>Gradii pe Internet</eventName>
+        <eventDate>2021-12-15</eventDate>
+        <eventTime>08:00</eventTime>
+        <eventPrice>300.0</eventPrice>
+        <eventType>Online</eventType>
+    </Event>
+</AllEvents>
